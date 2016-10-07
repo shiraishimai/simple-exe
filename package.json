@@ -1,0 +1,21 @@
+{
+  "name": "simple-exe",
+  "version": "1.0.0",
+  "description": "execute command on terminal",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "",
+    "type": "git"
+  },
+  "keywords": [
+    "exe",
+    "run",
+    "cmd",
+    "terminal"
+  ],
+  "author": "shiraishimai",
+  "license": "ISC"
+}
